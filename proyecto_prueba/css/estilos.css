@@ -11,5 +11,18 @@ body{
     padding: 15px;
     color: #000;
     border: 1px solid #000;
+<<<<<<< HEAD
     color: crimson;
+=======
+    color: aqua;
+}
+
+.cabecera{
+    color: #fff;
+    background: blue;
+    margin: 20px;
+    padding: 20px;
+    font-weight: bold;
+
+>>>>>>> cabecera
 }
